@@ -1,0 +1,1087 @@
+{
+  "business": {
+    "page": 1,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Karen Friar",
+        "title": "Stock market today: Dow futures slip, S&P 500 holds steady with fresh data on deck - Yahoo Finance",
+        "description": "Investors are looking to job openings and manufacturing data to provide clues to rate cuts as they digest Powell's latest comments.",
+        "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-futures-slip-sp-500-holds-steady-with-fresh-data-on-deck-110019547.html/",
+        "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+        "publishedAt": "2024-10-01T11:51:28Z",
+        "content": "US stock futures traded mixed on Tuesday to begin the new quarter, as investors waited for fresh jobs and manufacturing data to provide clues to the path of interest-rate cuts.\r\nDow Jones Industrial … [+2832 chars]",
+        "category": "business",
+        "id": "b2496b8a-8a89-43a3-82b9-eb8404d03a97"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Sara Salinas",
+        "title": "5 things to know before the stock market opens Tuesday - CNBC",
+        "description": "Here are the most important news items that investors need to start their trading day.",
+        "url": "https://www.cnbc.com/2024/10/01/5-things-to-know-before-the-stock-market-opens-tuesday-october-1.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107429945-17186506182024-06-17t182620z_1382152716_rc2zc8agyzwz_rtrmadp_0_usa-dailylife.jpeg?v=1718650644&w=1920&h=1080",
+        "publishedAt": "2024-10-01T11:43:38Z",
+        "content": "Here are five key things investors need to know to start the trading day:\r\n1. In the green\r\nThe S&amp;P 500 posted a record close Monday to end the month and the quarter. The broad market index rose … [+3258 chars]",
+        "category": "business",
+        "id": "b596d558-f639-45ad-829e-a068cd99fb51"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Doyinsola Oladipo, David Shepardson",
+        "title": "US East Coast dockworkers strike, halting half the nation's ocean shipping - Reuters",
+        "description": "Dockworkers on the U.S. East Coast and Gulf Coast began a strike early on Tuesday, their first large-scale stoppage in nearly 50 years.",
+        "url": "https://www.reuters.com/world/us/us-east-coast-dockworkers-head-toward-strike-after-deal-deadline-passes-2024-10-01/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/6B5LFS624ZN47CMOTWGZYCJRWA.jpg?auth=81f9d850ec66fac423254c2b40181152d91d96adcd3951ad5ccd213bb7870680&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-10-01T10:53:51Z",
+        "content": "NEW YORK, Oct 1 (Reuters) - Dockworkers on the U.S. East Coast and Gulf Coast began a strike early on Tuesday, their first large-scale stoppage in nearly 50 years, halting the flow of about half the … [+6494 chars]",
+        "category": "business",
+        "id": "ee58b1bd-96d8-48a9-b118-3b729354805a"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MarketWatch"
+        },
+        "author": "Steve Goldstein",
+        "title": "This hedge-fund manager says it’s a ‘max-long’ moment for stocks - MarketWatch",
+        "description": "Investor says cocktail of China and Fed easing should lift stocks",
+        "url": "https://www.marketwatch.com/story/this-hedge-fund-manager-says-its-a-max-long-moment-for-stocks-65bc50eb",
+        "urlToImage": "https://images.mktw.net/im-10530925/social",
+        "publishedAt": "2024-10-01T10:37:00Z",
+        "content": "Famed hedge-fund manager David Tepper made waves last week by not just saying how much he liked assets tied to China \r\n everything, he kept repeating but also how aggressively he was taking the posit… [+513 chars]",
+        "category": "business",
+        "id": "bb566647-f39b-4c33-b116-aa27b811e2c9"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "Powell says the Fed is not on a \"preset course\" to lower interest rates - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2024/09/30/powell-fed-lower-interest-rates-economy",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T09:00:00Z",
+        "content": null,
+        "category": "business",
+        "id": "a22857b7-a7c5-41f7-95ce-d72e25a1c122"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Anirban Sen",
+        "title": "Exclusive: CVS explores options including potential break-up, sources say - Reuters",
+        "description": "CVS Health is exploring options that could include a break-up of the company to separate its retail and insurance units, as the struggling healthcare services company looks to turn around its fortunes amid pressure from investors, people familiar with the mat…",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cvs-explores-options-including-potential-break-up-sources-say-2024-09-30/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/EKW5ZX3YUJMGPIWLZNFT3Y5QY4.jpg?auth=bfb6b77b1f16fc46bd6c6fa93c57bcf156d8b18e73459d43fddbd1fcd8f097bf&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-10-01T06:17:00Z",
+        "content": null,
+        "category": "business",
+        "id": "049150d8-20c8-4208-9d1e-16c47cd784da"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Evelyn Cheng",
+        "title": "China's stock surge has echoes of the 2015 bubble. What's different this time - CNBC",
+        "description": "The rocket up in Chinese stocks so far looks different from the market bubble in 2015, analysts said.",
+        "url": "https://www.cnbc.com/2024/10/01/chinas-stock-surge-has-echoes-of-the-2015-bubble-whats-different.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108040874-1727707108673-gettyimages-2173990659-cfoto-chinasto240927_np79X.jpeg?v=1727753168&w=1920&h=1080",
+        "publishedAt": "2024-10-01T05:05:05Z",
+        "content": "A customer watches stock market at a stock exchange in Hangzhou, China, on September 27, 2024. \r\nBEIJING The rocket higher in Chinese stocks so far looks different from the market bubble in 2015, ana… [+6029 chars]",
+        "category": "business",
+        "id": "8503d4dd-4e6f-4d3c-aa1a-ce3eb26bbafa"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Lacey Russell",
+        "title": "Tesla catches fire in garage after flooding from Hurricane Helene - CNN",
+        "description": "Home surveillance video shows the moment a Sarasota, Florida couple’s Tesla burst into flames during flooding brought on by Hurricane Helene, after which their home burned down. No injuries were reported.",
+        "url": "https://www.cnn.com/2024/09/30/us/video/tesla-fire-florida-hurricane-helene-digvid",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/01-tesla-fire-florida.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-01T02:02:56Z",
+        "content": "Home surveillance video shows the moment a Sarasota, Florida couples Tesla burst into flames during flooding brought on by Hurricane Helene, after which their home burned down. No injuries were repor… [+3 chars]",
+        "category": "business",
+        "id": "8999243b-64e3-4244-9917-fc9e7c2b7112"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNET"
+        },
+        "author": null,
+        "title": "Verizon Network Outage: Carrier Says Network Has Been Restored After Long Day Of Issues - CNET",
+        "description": "If you still don't have Verizon service on your phone, the carrier says you may want to restart your device.",
+        "url": "https://www.cnet.com/tech/mobile/verizon-network-outage-carrier-says-network-has-been-restored-after-long-day-of-issues/",
+        "urlToImage": "https://www.cnet.com/a/img/resize/1eb72800e7b2889329abd20449755cf2b1bd4506/hub/2024/07/10/222fbe21-a3bd-4901-a82b-99e0b1bc1cdf/verizon-mobile-internet-phone-9655.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "publishedAt": "2024-09-30T23:32:00Z",
+        "content": "If you've had trouble using Verizon's network on Monday, you were not the only one. The carrier has confirmed to CNET that it has been working to fix some problems that have led to a service outage f… [+2704 chars]",
+        "category": "business",
+        "id": "90a116bb-bc94-4562-80c8-0eb02c0609c8"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Tipranks.com"
+        },
+        "author": "Steve Anderson",
+        "title": "Hurricane Helene May Have Given Intel (NASDAQ:INTC) a Death Blow - TipRanks",
+        "description": "Did you know that a large part of the chip industry depends on a single road in North Carolina? That road runs out of the town of Spruce Pine, where\n<a cla...",
+        "url": "https://www.tipranks.com/news/hurricane-helene-may-have-given-intel-nasdaqintc-a-death-blow",
+        "urlToImage": "https://blog.tipranks.com/wp-content/uploads/2024/09/intel-shutterstock_2503817441-750x406.jpg",
+        "publishedAt": "2024-09-30T22:18:45Z",
+        "content": "Did you know that a large part of the chip industry depends on a single road in North Carolina? That road runs out of the town of Spruce Pine, where most of the world’s supply of ultra-pure quartz is… [+2087 chars]",
+        "category": "business",
+        "id": "ed14959d-41e7-44fa-a653-7ee4deec081c"
+      }
+    ]
+  },
+  "entertainment": {
+    "page": 1,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Page Six"
+        },
+        "author": "Nika Shakhnazarova",
+        "title": "Kristin Cavallari says Mark Estes will 'thank me' for ending their relationship: 'He needs to experience life' - Page Six",
+        "description": "“The Hills” alum, 37, pulled the plug on her relationship with the 24-year-old influencer seven months after debuting their romance.",
+        "url": "https://pagesix.com/2024/10/01/celebrity-news/kristin-cavallari-says-mark-estes-will-thank-me-for-ending-their-relationship-he-needs-to-experience-life/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/10/90787593.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-10-01T10:38:00Z",
+        "content": "Kristin Cavallari has opened up about her breakup from Mark Estes, saying that one day he will thank her for calling it quits.\r\nThe “Hills” alum, 37, pulled the plug on her relationship with the 24-y… [+3552 chars]",
+        "category": "entertainment",
+        "id": "f0e0c9ea-e256-48d7-8e1b-e60f165d98f4"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Variety"
+        },
+        "author": "Ellise Shafer",
+        "title": "‘Reacher’ Spinoff Starring Maria Sten Gets Series Order at Prime Video - Variety",
+        "description": "Prime Video's 'Reacher' universe is expanding with the series order of a spinoff focused on Maria Sten's Frances Neagley.",
+        "url": "https://variety.com/2024/tv/global/reacher-spinoff-maria-sten-untitled-neagley-project-prime-video-1236161290/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2024/10/maria_sten_-PC-Valerie-Burke.jpg?w=1000&h=563&crop=1",
+        "publishedAt": "2024-10-01T09:15:00Z",
+        "content": "Prime Video‘s “Reacher” universe is expanding with the series order of a spinoff starring Maria Sten.\r\n“The Untitled Neagley Project,” as the show is referred to in a press release, focuses on Sten’s… [+3178 chars]",
+        "category": "entertainment",
+        "id": "324535f8-b73d-4a74-a3c5-c361c42e9ce4"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Daily Beast"
+        },
+        "author": "Joanna Coles",
+        "title": "Stars Show Up in Force for Robert Downey Jr.’s Broadway Debut - The Daily Beast",
+        "description": "Downey Jr. stars as Jacob McNeal, the lead role in “McNeal,” a new play by the Pulitzer-winning playwright Ayad Akhtar.",
+        "url": "https://www.thedailybeast.com/stars-show-up-in-force-for-robert-downey-jrs-broadway-debut",
+        "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_576,w_1024,x_0,y_38/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1727752415/GettyImages-2175765739_safgpt",
+        "publishedAt": "2024-10-01T08:06:39Z",
+        "content": "It was the theatrical event of the fall at the Lincoln Center Theater last night as Robert Downey Jr. starred in his first Broadway production as Jacob McNeal, the lead role in McNeal, a new play by … [+1975 chars]",
+        "category": "entertainment",
+        "id": "0de569c7-f236-4bb2-aee5-edd4ffa01aa6"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T07:03:00Z",
+        "content": "[Removed]",
+        "category": "entertainment",
+        "id": "18649bf7-1107-4336-9492-63e7a52ae34d"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Eonline.com"
+        },
+        "author": null,
+        "title": "Timothée Chalamet Looks Unrecognizable With Hair and Mustache Transformation on Marty Supreme Set - E! NEWS",
+        "description": "Timothée Chalamet walked the streets of New York City with an entirely new look while filming his newest movie, Marty Supreme, directed by Josh Safdie.",
+        "url": "https://www.eonline.com/news/1408003/timothee-chalamet-looks-unrecognizable-with-hair-and-mustache-transformation-on-marty-supreme-set",
+        "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2024830/cr_1200x1200-240930154818-GettyImages-2029374126.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+        "publishedAt": "2024-10-01T05:56:00Z",
+        "content": "Timothée Chalamet is traveling back in time yet again.\r\nThe Call Me By Your Name starwho recently transformed into Bob Dylan for a film about the musicians lifewas spotted on set in New York City Sep… [+858 chars]",
+        "category": "entertainment",
+        "id": "03be6d2b-50d4-462f-9812-99bf5f65e8ed"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "cleveland.com"
+        },
+        "author": "Cliff Pinckard, cleveland.com",
+        "title": "Rock singer insults city; now 2 radio stations there won’t play his band’s music - cleveland.com",
+        "description": "Two radio stations in Las Vegas have pulled Green Day's music after lead singer Billie Joe Armstrong insulted the city.",
+        "url": "https://www.cleveland.com/nation/2024/10/rock-singer-calls-city-a-s-hole-now-2-radio-stations-wont-play-his-bands-music.html",
+        "urlToImage": "https://www.cleveland.com/resizer/v2/WW34GI73ERCYFDZLVGTJ6HV4VI.jpg?auth=a826bbce01eaeb260b2111caad26d993300e0d82c6934b959bef32c102ad6fd0&width=1280&quality=90",
+        "publishedAt": "2024-10-01T05:14:00Z",
+        "content": "LAS VEGAS, Nevada Billie Joe Armstrong, the lead singer of Green Day, is a native of Oakland, Calif., and a big fan of the Athletics.\r\nSo hes not happy about the As moving to Las Vegas, leading to hi… [+1024 chars]",
+        "category": "entertainment",
+        "id": "39578172-5c78-4869-870f-4f6e2ad0693e"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "Bhavika Rathore",
+        "title": "Sean ‘Diddy’ Combs allegedly faces taunts and poor living conditions in jail as he awaits trial: ‘He’s sleeping on…' - Hindustan Times",
+        "description": "Sean 'Diddy' Combs faces harsh jail conditions with minimum privileges while awaiting trial.",
+        "url": "https://www.hindustantimes.com/entertainment/music/sean-diddy-combs-allegedly-faces-taunts-and-poor-living-conditions-in-jail-as-he-awaits-trial-he-s-sleeping-on-101727754655213.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/10/01/1600x900/PEOPLE-SEAN-COMBS--0_1726921411007_1727755228533.JPG",
+        "publishedAt": "2024-10-01T04:31:47Z",
+        "content": "Sean Diddy Combs alleged living conditions in jail are revealed as he awaits his trial behind bars. The mogul is said to be having a hard time in jail, where he reportedly sleeps on the floor as rats… [+1975 chars]",
+        "category": "entertainment",
+        "id": "af17a464-d810-46e6-ba01-853ed0653260"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Gavin Creel: American Horror Story and Broadway star Gavin Creel dies at 48 - BBC.com",
+        "description": "Bette Midler and Hannah Waddingham pay tribute to the Broadway and West End star.",
+        "url": "https://www.bbc.com/news/articles/c4glk8y1711o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67f4/live/eccdb730-7fce-11ef-92ad-ff508aa8bb8c.jpg",
+        "publishedAt": "2024-10-01T03:58:12Z",
+        "content": "TV and Broadway star Gavin Creel has died from a rare and aggressive cancer at the age of 48, his publicist Matt Polk has announced.\r\nCreel was best known as a stage star in shows such as Hello Dolly… [+2795 chars]",
+        "category": "entertainment",
+        "id": "577bda0f-276a-4f8f-a569-6799b53b8973"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Issy Ronald",
+        "title": "Judge allows defamation lawsuit against Netflix over \\\"Baby Reindeer\\\" to proceed - CNN",
+        "description": "A Scottish woman accused of stalking “Baby Reindeer” creator and star Richard Gadd can proceed with her defamation lawsuit against Netflix, after a federal judge in California refused to dismiss all of the claims.",
+        "url": "https://www.cnn.com/2024/09/30/entertainment/baby-reindeer-lawsuit-intl-scli/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/br-101-unit-01088-rt.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-01T03:55:00Z",
+        "content": "A Scottish woman accused of stalking Baby Reindeer creator and star Richard Gadd can proceed with her defamation lawsuit against Netflix, after a federal judge in California refused to dismiss all of… [+3492 chars]",
+        "category": "entertainment",
+        "id": "fb56ecb2-2569-4249-bdf8-be27cf56cbd5"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YourTango"
+        },
+        "author": "Ruby Miranda",
+        "title": "Luck Improves For These 3 Zodiac Signs October 1, 2024 - YourTango",
+        "description": "Aries, Cancer and Sagittarius see their luck improve on October 1, 2024 during Moon trine Pluto.",
+        "url": "https://www.yourtango.com/2024378537/luck-improves-these-zodiac-signs-october-1-2024",
+        "urlToImage": "https://www.yourtango.com/sites/default/files/image_blog/2024-09/luck-improves-zodiac-signs-october-1-2024.png",
+        "publishedAt": "2024-10-01T03:05:06Z",
+        "content": "Luck is on our side on this first day of October, and three zodiac signs not only pick up on it but make the very best of the situation. When the Moon trines Pluto, we' can see the light in almost ev… [+3601 chars]",
+        "category": "entertainment",
+        "id": "968b3f90-51fd-4c4d-b56b-45007aed4ae6"
+      }
+    ]
+  },
+  "general": {
+    "page": 1,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": "SciTechDaily",
+        "title": "Just 6 Light-Years Away: Astronomers Discover New Planet Around Barnard’s Star - SciTechDaily",
+        "description": null,
+        "url": "https://scitechdaily.com/just-6-light-years-away-astronomers-discover-new-planet-around-barnards-star/",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T12:00:39Z",
+        "content": null,
+        "category": "general",
+        "id": "0667fb89-6b7f-4382-a19e-9d14ac5aaea4"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Sara Salinas",
+        "title": "5 things to know before the stock market opens Tuesday - CNBC",
+        "description": "Here are the most important news items that investors need to start their trading day.",
+        "url": "https://www.cnbc.com/2024/10/01/5-things-to-know-before-the-stock-market-opens-tuesday-october-1.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107429945-17186506182024-06-17t182620z_1382152716_rc2zc8agyzwz_rtrmadp_0_usa-dailylife.jpeg?v=1718650644&w=1920&h=1080",
+        "publishedAt": "2024-10-01T11:43:38Z",
+        "content": "Here are five key things investors need to know to start the trading day:\r\n1. In the green\r\nThe S&amp;P 500 posted a record close Monday to end the month and the quarter. The broad market index rose … [+3258 chars]",
+        "category": "general",
+        "id": "cdafc137-518b-44fb-84ea-73727a2c84c0"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "DW (English)"
+        },
+        "author": "Deutsche Welle",
+        "title": "Japan's Shigeru Ishiba confirmed as prime minister - DW (English)",
+        "description": "The 67-year-old replaces outgoing Prime Minister Fumio Kishida. Ishiba is seeking to unify the ruling party ahead of elections later this month.",
+        "url": "https://www.dw.com/en/japans-shigeru-ishiba-confirmed-as-prime-minister/a-70370307",
+        "urlToImage": "https://static.dw.com/image/70374006_6.jpg",
+        "publishedAt": "2024-10-01T11:39:06Z",
+        "content": "Japan's parliament on Tuesday formally elected Shigeru Ishiba, the head of the governing Liberal Democratic Party (LDP), as the country's next prime minister.   \r\nThe vote came after outgoing Prime M… [+1837 chars]",
+        "category": "general",
+        "id": "ba160386-91f3-4c20-b027-86f851b81340"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JULIA FRANKEL, BASSEM MROUE",
+        "title": "Israel calls for evacuations in Lebanon as Hezbollah denies ground incursion began - The Associated Press",
+        "description": "The Israeli military has warned people to evacuate nearly two dozen Lebanese border communities hours after announcing the start of ground operations against the Hezbollah militant group. Hezbollah on Tuesday denied Israeli troops had entered Lebanon but said…",
+        "url": "https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-10-01-2024-eb175dff6e46906caea8b9e43dfbd3da",
+        "urlToImage": "https://dims.apnews.com/dims4/default/5a925a6/2147483647/strip/true/crop/4608x2592+0+240/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7b%2F0c%2F198b2a44da42aeb7746646bf835b%2F3de951bc82ab4793a3d7be69a66781da",
+        "publishedAt": "2024-10-01T11:35:00Z",
+        "content": "JERUSALEM (AP) The Israeli military on Tuesday warned people to evacuate nearly two dozen Lebanese border communities hours after announcing the start of limited ground operations against Hezbollah. … [+7987 chars]",
+        "category": "general",
+        "id": "6e310e92-c214-4f5e-8c46-ca7f0c809093"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Betsy Klein",
+        "title": "Biden celebrates Jimmy Carter’s 100th birthday: ‘I admire you so darn much’ - CNN",
+        "description": "President Joe Biden offered a 100th birthday greeting to former President Jimmy Carter, celebrating a predecessor he said he admires “so darn much.”",
+        "url": "https://www.cnn.com/2024/10/01/politics/jimmy-carter-100-celebrations/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/190219133212-41-joe-biden.jpg?q=x_3,y_243,h_1684,w_2993,c_crop/w_800",
+        "publishedAt": "2024-10-01T11:12:00Z",
+        "content": "President Joe Biden offered a 100th birthday greeting to former President Jimmy Carter, celebrating a predecessor he said he admires so darn much.\r\nCalling the former president a moral force for our … [+2509 chars]",
+        "category": "general",
+        "id": "852aeb2a-fc31-4c9f-9243-86d4fe379819"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "Dramatic video shows Russian fighter jet flying dangerously close to aircraft off Alaska, NORAD says - CBS News",
+        "description": "\"The conduct of one Russian Su-35 was unsafe, unprofessional, and endangered all,\" a NORAD commander said.",
+        "url": "https://www.cbsnews.com/news/video-russia-jet-dangerously-close-aircraft-alaska-norad/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/09/30/f0d0bd28-a024-4086-903e-3eb6b1c0f89e/thumbnail/1200x630/a1b0f42d62497ad3345f79c13b67c7f0/norad-screenshot-2024-09-30-122839.jpg?v=fa529222a2be3543711c1a879b51e860",
+        "publishedAt": "2024-10-01T10:59:49Z",
+        "content": "A Russian fighter jet flew dangerously close to aircraft deployed by the North American Aerospace Defense Command off the coast of Alaska, according to a video posted Monday by NORAD.\r\nIn the 15-seco… [+2955 chars]",
+        "category": "general",
+        "id": "1b9fe16c-8903-4657-8d99-99708786c402"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "SYLVIA HUI, PASCAL BASTIEN, BARBARA SURK",
+        "title": "WikiLeaks’ Julian Assange says he pleaded ‘guilty to journalism’ in order to be freed - The Associated Press",
+        "description": "WikiLeaks founder Julian Assange says that he was freed because “I pled guilty to journalism.” In his first public remarks since he was released from prison in June, Assange testified Tuesday to the Council of Europe's Parliamentary Assembly, which includes l…",
+        "url": "https://apnews.com/article/julian-assange-statement-council-europe-5373cfb854474deba0e5799b23cb8d2e",
+        "urlToImage": "https://dims.apnews.com/dims4/default/6251d42/2147483647/strip/true/crop/6016x3384+0+313/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F26%2F44%2Fd12828a13401ac667fad96e3e07f%2F3c5de8b4a1194da0a65d6106e7771c50",
+        "publishedAt": "2024-10-01T10:58:00Z",
+        "content": "STRASBOURG, France (AP) WikiLeaks founder Julian Assange said Tuesday that he was freed after years of incarceration because he pled guilty to journalism.\r\nIn his first public remarks since he was re… [+3714 chars]",
+        "category": "general",
+        "id": "cbec44a7-de68-4713-9e24-b994ed176718"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Doyinsola Oladipo, David Shepardson",
+        "title": "US East Coast dockworkers strike, halting half the nation's ocean shipping - Reuters",
+        "description": "Dockworkers on the U.S. East Coast and Gulf Coast began a strike early on Tuesday, their first large-scale stoppage in nearly 50 years.",
+        "url": "https://www.reuters.com/world/us/us-east-coast-dockworkers-head-toward-strike-after-deal-deadline-passes-2024-10-01/",
+        "urlToImage": "https://www.reuters.com/resizer/v2/6B5LFS624ZN47CMOTWGZYCJRWA.jpg?auth=81f9d850ec66fac423254c2b40181152d91d96adcd3951ad5ccd213bb7870680&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2024-10-01T10:53:51Z",
+        "content": "NEW YORK, Oct 1 (Reuters) - Dockworkers on the U.S. East Coast and Gulf Coast began a strike early on Tuesday, their first large-scale stoppage in nearly 50 years, halting the flow of about half the … [+6494 chars]",
+        "category": "general",
+        "id": "b0d5dc9e-e371-41d6-94d0-164e1a3c25f2"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WCPO"
+        },
+        "author": "Taylor Weiter",
+        "title": "Cincinnati Reds legend Pete Rose dies at age 83 - WCPO 9 Cincinnati",
+        "description": "'Charlie Hustle' Pete Rose has died, according to multiple reports. The Cincinnati native who attended Western Hills High School and spent most of his career with the Reds died at 83.",
+        "url": "https://www.wcpo.com/sports/baseball/reds/reports-cincinnati-reds-legend-pete-rose-has-died",
+        "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/6da5fea/2147483647/strip/true/crop/2914x1530+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F1c%2F8c%2Ff94b02f34e0aa6ba8f2adff7f1c7%2Fap8509110626.jpg",
+        "publishedAt": "2024-10-01T10:44:50Z",
+        "content": "CINCINNATI Reds legend Pete Rose has died. The Cincinnati native who became Major League Baseball's hit king was 83.\r\nThe 1960 Western Hills High School alum signed a professional contract with the R… [+3091 chars]",
+        "category": "general",
+        "id": "f6dd4604-0307-47c3-b6b5-234ae8c325ad"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Page Six"
+        },
+        "author": "Nika Shakhnazarova",
+        "title": "Kristin Cavallari says Mark Estes will 'thank me' for ending their relationship: 'He needs to experience life' - Page Six",
+        "description": "“The Hills” alum, 37, pulled the plug on her relationship with the 24-year-old influencer seven months after debuting their romance.",
+        "url": "https://pagesix.com/2024/10/01/celebrity-news/kristin-cavallari-says-mark-estes-will-thank-me-for-ending-their-relationship-he-needs-to-experience-life/",
+        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/10/90787593.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-10-01T10:38:00Z",
+        "content": "Kristin Cavallari has opened up about her breakup from Mark Estes, saying that one day he will thank her for calling it quits.\r\nThe “Hills” alum, 37, pulled the plug on her relationship with the 24-y… [+3552 chars]",
+        "category": "general",
+        "id": "e196175e-5e75-42bf-b1f4-d8ebd0f6da32"
+      }
+    ]
+  },
+  "health": {
+    "page": 1,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "ScienceAlert",
+        "title": "Shockingly Common Injury Linked With an Increased Risk of Dementia - ScienceAlert",
+        "description": null,
+        "url": "https://www.sciencealert.com/shockingly-common-injury-linked-with-an-increased-risk-of-dementia",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T11:00:39Z",
+        "content": null,
+        "category": "health",
+        "id": "d527f82b-4642-4dc0-b413-d692bfb52b0f"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Daily Dot"
+        },
+        "author": "Charlotte Colombo",
+        "title": "‘I had 6-9 months where I kept getting flu-like symptoms’: Woman says her metal water bottle made her sick - The Daily Dot",
+        "description": "A TikToker has gone viral after claiming they were sick for months on end from using a metal water bottle.",
+        "url": "https://www.dailydot.com/news/metal-water-bottle-lead/",
+        "urlToImage": "https://uploads.dailydot.com/2024/09/metal-water-bottle-made-sick.jpg?auto=compress&fm=pjpg",
+        "publishedAt": "2024-10-01T10:00:00Z",
+        "content": "A woman has gone viral after claiming she got flu-like symptoms from a metal water bottle. Karyn Wilson (@karynsmithwilson) says she discovered just how dangerous metal water bottles can be via a pro… [+5297 chars]",
+        "category": "health",
+        "id": "20e14dbd-69de-4d86-a2dd-c90882b3f821"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Daryl Austin",
+        "title": "What is gabapentin? Here's why it's so controversial. - USA TODAY",
+        "description": "Here's who gabapentin was originally approved for, what it's used for today and why it's becoming a drug of increasing concern for abuse and misuse.",
+        "url": "https://www.usatoday.com/story/life/health-wellness/2024/10/01/gabapentin-used-for-side-effects/75220690007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/01/18/USAT/72274772007-usatsi-17779515.jpg?crop=2497,1404,x0,y171&width=2497&height=1404&format=pjpg&auto=webp",
+        "publishedAt": "2024-10-01T09:04:44Z",
+        "content": "Many of the prescription drugs that are commonly abused or misused are brands most people have heard of. Painkillers, also known as opioids, are the most frequently abused ones, per data from the New… [+5287 chars]",
+        "category": "health",
+        "id": "3b60948b-240b-4a19-9d9f-6ca25665d22a"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Shiv Sudhakar",
+        "title": "Does everyone need to take vitamins — and which are most important? Here’s what to know - Fox News",
+        "description": "More than half of American adults took dietary supplements between 2017 and 2020 — but are vitamins really essential for everyone? Experts share what you need to know.",
+        "url": "https://www.foxnews.com/health/does-everyone-need-take-vitamins-most-important-heres-what-know",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/09/vitamin-split.jpg",
+        "publishedAt": "2024-10-01T08:30:00Z",
+        "content": "Join Fox News for access to this content\r\nPlus special access to select articles and other premium content with your account - free of charge.\r\nBy entering your email and pushing continue, you are ag… [+7254 chars]",
+        "category": "health",
+        "id": "e7fcab54-c925-4580-9806-73061c3e5cd4"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "ScienceAlert",
+        "title": "FDA-Approved Antidepressant Treats Incurable Brain Cancer in Preclinical Trial - ScienceAlert",
+        "description": null,
+        "url": "https://www.sciencealert.com/fda-approved-antidepressant-treats-incurable-brain-cancer-in-preclinical-trial",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T07:04:21Z",
+        "content": null,
+        "category": "health",
+        "id": "0f4a2f2e-5184-487c-afa1-03412b6c916f"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Tracy Swartz",
+        "title": "NYC company develops simple swab test that can tell how well you’re aging - New York Post ",
+        "description": "Most biochemical tests that predict a person’s biological age rely on blood DNA, but Tally Health’s CheekAge is a non-invasive cheek swab.",
+        "url": "https://nypost.com/2024/10/01/lifestyle/nyc-company-develops-simple-swab-test-that-can-tell-how-well-youre-aging/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/newspress-collage-9swfc5guc-1727731824042.jpg?quality=75&strip=all&1727717546&w=1024",
+        "publishedAt": "2024-10-01T04:15:00Z",
+        "content": "Cheek, please!\r\nA biotechnology company headquartered in Manhattan has developed an “aging” clock that uses information from the cells in your cheeks to predict your biological age.\r\nBiological age i… [+2914 chars]",
+        "category": "health",
+        "id": "82bf37c2-ec50-4d5a-b36c-bb2e9885a439"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Fitandwell.com"
+        },
+        "author": "Maddy Biddulph",
+        "title": "I tried a low-impact 3,000-step speed walking workout and I was shocked by the results - Fit and Well",
+        "description": "It was harder than I imagined and it boosted my heart rate in just 20 minutes",
+        "url": "https://www.fitandwell.com/features/i-tried-a-low-impact-3-000-step-speed-walking-workout-and-i-was-shocked-by-the-results",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/f7KGYXPzfNGHcbfNnqseja-1200-80.jpg",
+        "publishedAt": "2024-10-01T04:03:47Z",
+        "content": "Keeping an eye on your daily step count is an easy way to make sure you're staying active, but with work, family and social commitments it's not always easy to reach 10,000 steps a day. Fortunately, … [+2441 chars]",
+        "category": "health",
+        "id": "2d5f1f05-6297-4d3b-849d-4d64582b3cf1"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KSL.com"
+        },
+        "author": "Ivy Farguheson, KSL.com",
+        "title": "Utah doctors win $2.4M grant to improve health for sufferers of heart valve issues - KSL.com",
+        "description": "Two Utah doctors will analyze the health history of 10,000 clients — living and deceased — in hopes of learning more about a condition that affects 176 million people around the world.",
+        "url": "https://www.ksl.com/article/51144498/utah-doctors-win-24m-grant-to-improve-health-for-sufferers-of-heart-valve-issues",
+        "urlToImage": "https://img.ksl.com/slc/3015/301537/30153766.jpeg?filter=kslv2/responsive_story_lg",
+        "publishedAt": "2024-10-01T03:06:36Z",
+        "content": "SALT LAKE CITY If you run into Dr. Benjamin Horne anytime soon, you may see him pinching himself, maybe even with a smile on his face.\r\nYou would do the same thing too, if you won a $2.4 million gran… [+3222 chars]",
+        "category": "health",
+        "id": "e4dcf319-9ad4-436f-838c-b26572ee0433"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Caitlin McCormack",
+        "title": "First human case of tick-borne disease in the Northeast reported in Connecticut - New York Post ",
+        "description": "The first-ever recorded Northeast case of a tick-borne disease was reported in Connecticut, officials said. Rickettsia parkeri rickettsiosis is a type of spotted fever transmitted through infected …",
+        "url": "https://nypost.com/2024/09/30/us-news/connecticut-reports-first-human-case-of-tick-borne-disease-in-the-northeast/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/gulf-coast-tick-amblyomma-maculatum-90761073.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-10-01T02:30:00Z",
+        "content": "The first-ever recorded Northeast case of a tick-borne disease was reported in Connecticut, officials said.\r\nRickettsia parkeri rickettsiosis is a type of spotted fever transmitted through infected m… [+1902 chars]",
+        "category": "health",
+        "id": "685bdb11-2172-44b0-9774-3a28e0f50dc4"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "STAT"
+        },
+        "author": "STAT",
+        "title": "Marburg virus outbreak in Rwanda draws concern over possibility of international spread - STAT",
+        "description": null,
+        "url": "https://www.statnews.com/2024/09/30/marburg-virus-outbreak-rwanda-concern-about-spread/",
+        "urlToImage": null,
+        "publishedAt": "2024-09-30T23:51:10Z",
+        "content": null,
+        "category": "health",
+        "id": "db7ebde7-118e-40ed-8908-d279260f99d9"
+      }
+    ]
+  },
+  "science": {
+    "page": 1,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": "SciTechDaily",
+        "title": "Just 6 Light-Years Away: Astronomers Discover New Planet Around Barnard’s Star - SciTechDaily",
+        "description": null,
+        "url": "https://scitechdaily.com/just-6-light-years-away-astronomers-discover-new-planet-around-barnards-star/",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T12:00:39Z",
+        "content": null,
+        "category": "science",
+        "id": "5e75e4fa-6551-416c-a9a0-404002559292"
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Eric Berger",
+        "title": "Here’s how to revive NASA’s Artemis Moon program with three simple tricks - Ars Technica",
+        "description": "To get somewhere, Artemis must avoid going nowhere.",
+        "url": "https://arstechnica.com/space/2024/10/heres-how-to-revive-nasas-artemis-moon-program-with-three-simple-tricks/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/lunar-gateway-760x380.jpg",
+        "publishedAt": "2024-10-01T11:00:25Z",
+        "content": "Enlarge/ A rendering of NASA's Lunar Gateway. \r\n33\r\nRegardless of the outcome of this years election, the United States will have a new president in a few months. Although there are myriad issues of … [+3156 chars]",
+        "category": "science",
+        "id": "b43136e9-d3b9-4ad9-ab6f-b45407ac49d5"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": "SciTechDaily",
+        "title": "Discovery of Mysterious Ancient Sunken Seafloor Could Rewrite Earth’s History - SciTechDaily",
+        "description": null,
+        "url": "https://scitechdaily.com/discovery-of-mysterious-ancient-sunken-seafloor-could-rewrite-earths-history/",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T08:13:30Z",
+        "content": null,
+        "category": "science",
+        "id": "75ffc194-ad19-4049-b14d-fb09588eaabd"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": "SciTechDaily",
+        "title": "Hitting Pause on Life: Researchers Discover How to Delay Human Embryo Growth - SciTechDaily",
+        "description": null,
+        "url": "https://scitechdaily.com/hitting-pause-on-life-researchers-discover-how-to-delay-human-embryo-growth/",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T02:52:38Z",
+        "content": null,
+        "category": "science",
+        "id": "cf3c824e-548e-4d71-9ca4-ce3b6f28caa2"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Alex Mitchell",
+        "title": "Dozens of huge 'craters' discovered at the bottom of this Great Lake — scientists want to know how they got there - New York Post ",
+        "description": "A Great Lake has an even greater mystery. Dozens of massive, 600-foot-wide sinkholes have recently been discovered 500 feet below Lake Michigan, but how they got there remains a head-scratcher. Bac…",
+        "url": "https://nypost.com/2024/09/30/science/dozens-of-huge-craters-discovered-at-the-bottom-of-this-great-lake-scientists-want-to-know-how-they-got-there/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/09/Untitled-1_30c707.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-10-01T01:23:00Z",
+        "content": "A Great Lake has an even greater mystery. \r\nDozens of massive, 600-foot-wide sinkholes have recently been discovered 500 feet below Lake Michigan, but how they got there remains a head-scratcher.\r\nBa… [+1717 chars]",
+        "category": "science",
+        "id": "e83db6e3-0344-43f6-838b-c1e2203801b3"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "NASA Astronauts Set for Homecoming After SpaceX Dragon Docks at ISS | Firstpost America - Firstpost",
+        "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "url": "https://www.youtube.com/",
+        "urlToImage": "https://www.youtube.com/img/desktop/yt_1200.png",
+        "publishedAt": "2024-10-01T01:15:04Z",
+        "content": null,
+        "category": "science",
+        "id": "4842e274-df9a-4f94-a2f3-e61fa748f1eb"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WTOP"
+        },
+        "author": "Greg Redfern",
+        "title": "How to see Comet A3 streak across the sky this month - WTOP",
+        "description": "WTOP’s Greg Redfern goes over how to enjoy views of Comet C/2023 A3 (Tsuchinshan-ATLAS), or Comet A3 for short, during the month of October.",
+        "url": "https://wtop.com/the-space-place/2024/10/how-to-see-comet-a3-streak-across-the-sky-next-month/",
+        "urlToImage": "https://wtop.com/wp-content/uploads/2024/09/Comet-NEOWISE-e1727729486131.jpeg",
+        "publishedAt": "2024-10-01T01:03:28Z",
+        "content": "When the clouds finally clear after weeks of gray skies and rain, make it a point to join the worldwide collective of casual star gazers and professional and amateur astronomers who are enjoying view… [+1904 chars]",
+        "category": "science",
+        "id": "596ee881-a86e-44dc-a6c2-cf3cfb544679"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "'Human race needs to expand beyond Earth,' says Prof Brian Cox - BBC.com",
+        "description": "The UK’s best-known particle physicist on whether he would be keen on an out of this world experience.",
+        "url": "https://www.bbc.com/news/articles/ckg9qd22k7po",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/376c/live/49792bc0-7f4a-11ef-b266-c1a332524046.jpg",
+        "publishedAt": "2024-10-01T00:38:17Z",
+        "content": "Prof Brian Cox is a physicist and musician\r\nProf Brian Cox says he is prepared to boldly go where no British TV presenter has gone before.\r\nIve not yet raised the funds, or convinced someone to give … [+5167 chars]",
+        "category": "science",
+        "id": "41aaf9cc-2e15-49d7-a9c0-ba8b55daf739"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "ScienceAlert",
+        "title": "Ant Queens Practice 'Hygienic Cannibalism' Out of Tough Love - ScienceAlert",
+        "description": null,
+        "url": "https://www.sciencealert.com/ant-queens-practice-hygienic-cannibalism-out-of-tough-love",
+        "urlToImage": null,
+        "publishedAt": "2024-09-30T23:05:21Z",
+        "content": null,
+        "category": "science",
+        "id": "6b8acde7-cad1-4931-959b-960c887e7e98"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Futurism"
+        },
+        "author": "Victor Tangermann",
+        "title": "COVID-19 Pandemic Affected the Moon, Scientists Claim - Futurism",
+        "description": "Something strange happened when the Earth was gripped by the COVID-19 pandemic in early 2020: the Moon got substantially colder.",
+        "url": "https://futurism.com/the-byte/covid-19-pandemic-moon",
+        "urlToImage": "https://wordpress-assets.futurism.com/2024/09/covid-19-pandemic-moon.jpg",
+        "publishedAt": "2024-09-30T22:05:46Z",
+        "content": "Wait, what?\r\nLunar Coronavirus\r\nSomething strange happened when the Earth was gripped by the COVID-19 pandemic in early 2020, scientists claim: the Moon got substantially colder.\r\nAs detailed in a re… [+2303 chars]",
+        "category": "science",
+        "id": "04811146-6779-49df-8ad2-c411ab56825e"
+      }
+    ]
+  },
+  "sports": {
+    "page": 1,
+    "articles": [
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "NFL Nation",
+        "title": "Week 5 NFL Power Rankings: 1-32 poll, plus the biggest issue on defense for every team - ESPN",
+        "description": "How high did the Ravens rise and the Bills fall in our Week 5 Power Rankings? Plus, the biggest issue on defense for every team.",
+        "url": "https://www.espn.com/nfl/story/_/id/41536335/nfl-power-rankings-week-5-poll-2024-biggest-defense-issue",
+        "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0930%2Fnfl_power5_cr_16x9.jpg",
+        "publishedAt": "2024-10-01T11:00:00Z",
+        "content": "Welcome to Week 5 of the 2024 NFL season. The Kansas City Chiefs and Minnesota Vikings are the last undefeated teams remaining, and the Jacksonville Jaguars are the lone winless team.\r\nIn Week 4, we … [+21720 chars]",
+        "category": "sports",
+        "id": "0b8fd12d-b488-4456-b45c-1c8801c9ee68"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WCPO"
+        },
+        "author": "Taylor Weiter",
+        "title": "Cincinnati Reds legend Pete Rose dies at age 83 - WCPO 9 Cincinnati",
+        "description": "'Charlie Hustle' Pete Rose has died, according to multiple reports. The Cincinnati native who attended Western Hills High School and spent most of his career with the Reds died at 83.",
+        "url": "https://www.wcpo.com/sports/baseball/reds/reports-cincinnati-reds-legend-pete-rose-has-died",
+        "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/6da5fea/2147483647/strip/true/crop/2914x1530+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F1c%2F8c%2Ff94b02f34e0aa6ba8f2adff7f1c7%2Fap8509110626.jpg",
+        "publishedAt": "2024-10-01T10:44:50Z",
+        "content": "CINCINNATI Reds legend Pete Rose has died. The Cincinnati native who became Major League Baseball's hit king was 83.\r\nThe 1960 Western Hills High School alum signed a professional contract with the R… [+3091 chars]",
+        "category": "sports",
+        "id": "f47f7acd-b95b-4af1-8dc2-da3dbb1908b6"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Ben Morse",
+        "title": "Lions QB Jared Goff makes history in Detroit victory over Seahawks, Titans get 1st win: NFL Week 4 Monday review - CNN",
+        "description": "Week 4 came to a close with another double-header, as Detroit Lions QB stole the show on Monday Night Football, making history in a 42-29 win over the Seattle Seahawks.",
+        "url": "https://www.cnn.com/2024/10/01/sport/jared-goff-nfl-week-4-monday-spt-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2175783699.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-10-01T09:08:00Z",
+        "content": "Week 4 of the NFL season came to a close on Monday night with another double-header, with one encounter between teams flying high and the other between two looking to kickstart their seasons in earne… [+5689 chars]",
+        "category": "sports",
+        "id": "6d675471-cdc8-43ed-aea0-7dff5c1fa6e1"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "PAUL NEWBERRY",
+        "title": "Mets reach playoffs, beat Braves to cap comeback from 22-33 start - The Associated Press",
+        "description": "Four months after falling 11 games under .500, the New York Mets earned a playoff berth a day after the regular season was supposed to end. With a thrilling 8-7 win over the Atlanta Braves in the opener of a makeup doubleheader behind Francisco Lindor’s two-r…",
+        "url": "https://apnews.com/article/mets-clinch-playoffs-420aaa1766f1afb64a58c25529ca31dd",
+        "urlToImage": "https://dims.apnews.com/dims4/default/bca1ff5/2147483647/strip/true/crop/3500x1969+0+182/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9d%2Ff9%2Fbee2e6372fa550cc1eaeb8740d91%2F889423f3ec5c4af8976a7d0f72c6846c",
+        "publishedAt": "2024-10-01T05:58:00Z",
+        "content": "ATLANTA (AP) These New York Mets know a thing or two about comebacks.\r\nThey saved their best one for the final day of the regular season.\r\nOvercoming deficits of 3-0 in the eighth inning and 7-6 in t… [+4782 chars]",
+        "category": "sports",
+        "id": "101e4318-6bd5-40a0-8bdd-09f52b507f09"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Safid Deen",
+        "title": "Mike McDaniel, Dolphins in early season freefall without Tua after MNF loss to Titans - USA TODAY",
+        "description": "Mike McDaniel looked like a deer in headlights whenever the cameras found the Dolphins coach. He had no answers in a 31-12 loss to the Titans.",
+        "url": "https://www.usatoday.com/story/sports/nfl/2024/09/30/dolphins-loss-titans-mnf/75461952007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/10/01/USAT/75462090007-2175786965.jpg?crop=1595,897,x659,y129&width=1595&height=897&format=pjpg&auto=webp",
+        "publishedAt": "2024-10-01T04:36:07Z",
+        "content": "MIAMI GARDENS, Fla. Mike McDaniel looked like a deer in headlights whenever the cameras found the third-year Miami Dolphins coach.\r\nAs starting quarterback Tua Tagovailoa paced up and down the sideli… [+4560 chars]",
+        "category": "sports",
+        "id": "9f750b54-ed69-41ff-9a82-9ed6f4cead24"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "NFL Week 4 grades: Lions earn 'A-' after Jared Goff makes NFL history, Dolphins get 'D-' for ugly loss - CBS Sports",
+        "description": "Here are the Week 4 grades for every team",
+        "url": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-lions-earn-a-after-jared-goff-makes-nfl-history-dolphins-get-d-for-ugly-loss/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/10/01/b4674256-91d2-45c1-99bc-4a7762886a6d/thumbnail/1200x675/0e42409aa4cbbfe678bacfb46e6f7fee/jared-goff.jpg",
+        "publishedAt": "2024-10-01T04:17:00Z",
+        "content": "Welcome to the Week 4 grades!\r\nThe fourth week of the NFL season has been a big one for rookie quarterbacks. During the early window of games, Caleb Williams and Bo Nix both came away with a win. For… [+2031 chars]",
+        "category": "sports",
+        "id": "0350dff0-452a-4727-b8e4-4cae7cd295da"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Nbcsportsbayarea.com"
+        },
+        "author": "Matt Maiocco",
+        "title": "49ers coach Shanahan confirms CMC has tendinitis in both Achilles - NBC Sports Bay Area",
+        "description": "San Francisco 49ers coach Kyle Shanahan provided more details about Christian McCaffrey's injuries.",
+        "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/christian-mccaffrey-kyle-shanahan-achilles-tendinitis-injury/1788227/",
+        "urlToImage": "https://media.nbcsportsbayarea.com/2024/09/Christian-McCaffrey-49ers-USATSI_33c279.jpg?quality=85&strip=all&resize=1200%2C675",
+        "publishedAt": "2024-10-01T03:33:22Z",
+        "content": "SANTA CLARA Running back Christian McCaffrey has been dealing with issues with his Achilles tendons on both legs, 49ers coach Kyle Shanahan confirmed on Monday.\r\nMcCaffrey recently traveled to German… [+1661 chars]",
+        "category": "sports",
+        "id": "03f56851-f470-4a0a-8c33-6211639b9120"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Pff.com"
+        },
+        "author": "Pro Football Focus",
+        "title": "NFL Week 4 Recap: Immediate fantasy football takeaways from Monday's games - Pro Football Focus",
+        "description": null,
+        "url": "https://www.pff.com/news/fantasy-football-week-4-recap-immediate-takeaways-monday-night-football-2024",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T02:45:00Z",
+        "content": null,
+        "category": "sports",
+        "id": "7214c163-ede4-43ba-8d01-3784a0e4c483"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Arizona Sports"
+        },
+        "author": null,
+        "title": "Diamondbacks’ Ken Kendrick ‘disappointed’ with how MLB handled Mets-Braves situation - Arizona Sports",
+        "description": "Arizona Diamondbacks owner and managing partner Ken Kendrick is unhappy with how MLB handled Monday's Mets-Braves debacle.",
+        "url": "https://arizonasports.com/story/3560074/d-backs-ken-kendrick-mets-braves/",
+        "urlToImage": "https://arizonasports.com/wp-content/uploads/2024/09/GettyImages-2131918417-scaled-e1727748049192-1024x577.jpg",
+        "publishedAt": "2024-10-01T02:31:20Z",
+        "content": "The Arizona Diamondbacks will miss out on the postseason after the New York Mets and Atlanta Braves split their fate-deciding doubleheader on Monday.\r\nIt’s a disappointment for not only the team, but… [+3198 chars]",
+        "category": "sports",
+        "id": "649e92b8-8d94-400c-aeeb-3617bc15cbd4"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Russian Machine Never Breaks"
+        },
+        "author": "Chris Cerullo",
+        "title": "Observations from the Washington Capitals’ 3-2 preseason win against the Columbus Blue Jackets - Russian Machine Never Breaks",
+        "description": "The Washington Capitals secured the second win of their 2024 preseason, downing the Columbus Blue Jackets 3-2 inside Nationwide Arena on Monday…",
+        "url": "https://russianmachineneverbreaks.com/2024/09/30/observations-from-the-washington-capitals-3-2-preseason-win-against-the-columbus-blue-jackets/",
+        "urlToImage": "https://i0.wp.com/russianmachineneverbreaks.com/wp-content/uploads/2024/09/capitals-blue-jackets-2024-preseason-1.jpg?fit=729%2C486&ssl=1&original",
+        "publishedAt": "2024-10-01T02:28:57Z",
+        "content": "The Washington Capitals secured the second win of their 2024 preseason, downing the Columbus Blue Jackets 3-2 inside Nationwide Arena on Monday night. Washington is now 2-3 overall through five prese… [+3096 chars]",
+        "category": "sports",
+        "id": "3268a504-854d-449b-8dbd-11e68a9c4ecf"
+      }
+    ]
+  },
+  "technology": {
+    "page": 1,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Push Square"
+        },
+        "author": "Push Square",
+        "title": "PS5 Pro 'Absolutely Rocks', According to No Man's Sky Engine Programmer - Push Square",
+        "description": null,
+        "url": "https://www.pushsquare.com/news/2024/10/ps5-pro-absolutely-rocks-according-to-no-mans-sky-engine-programmer",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T11:15:00Z",
+        "content": null,
+        "category": "technology",
+        "id": "0b808f22-56de-4714-9668-c6182117aba5"
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Wesley Yin-Poole",
+        "title": "PS5 Pro 30th Anniversary Edition Preorders Restricted to PSN Accounts With at Least 30 Hours of Runtime — in Japan - IGN",
+        "description": "Sony Japan is restricting PS5 Pro 30th Anniversary Edition preorders to those with 30 hours of run-time on their PSN accounts.",
+        "url": "https://www.ign.com/articles/ps5-pro-30th-anniversary-edition-preorders-restricted-to-psn-accounts-with-at-least-30-hours-of-runtime-in-japan",
+        "urlToImage": "https://assets-prd.ignimgs.com/2024/09/25/where-to-preorder-ps5-pro-30th-anniversary-collection-1727269433113.png?width=1280",
+        "publishedAt": "2024-10-01T10:31:54Z",
+        "content": "While PS5 Pro 30th Anniversary Edition preorders sparked a flurry of eBay listings with huge mark-ups in the West, in Japan Sony has an actual plan to beat the scapers.\r\nAs spotted by Automaton, the … [+1984 chars]",
+        "category": "technology",
+        "id": "b8c8036d-6b4c-49b9-9618-f6b90cc155d0"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Push Square"
+        },
+        "author": "Push Square",
+        "title": "Silent Hill 2 Remake Breaks Street Date, PS5 Discs Loose in the Wild - Push Square",
+        "description": null,
+        "url": "https://www.pushsquare.com/news/2024/10/silent-hill-2-remake-breaks-street-date-ps5-discs-loose-in-the-wild",
+        "urlToImage": null,
+        "publishedAt": "2024-10-01T04:00:00Z",
+        "content": null,
+        "category": "technology",
+        "id": "61593b94-1850-4b0f-b09e-2e43e066defe"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "80.lv"
+        },
+        "author": "Theodore McKenzie",
+        "title": "Assassin's Creed Shadows Delayed Due to Yasuke & Star Wars Outlaws - 80.lv",
+        "description": "Tom Henderson shed some light on the reasons why Ubisoft's upcoming Assassin's Creed game got postponed.",
+        "url": "https://80.lv/articles/yasuke-bugs-poor-outlaws-sales-details-on-assassin-s-creed-shadows-delay/",
+        "urlToImage": "https://cdn.80.lv/api/upload/meta/36722/images/66fb6e9c8cd4b/contain_1200x630.jpg",
+        "publishedAt": "2024-10-01T03:39:28Z",
+        "content": "Attempting to shed some light on the actual reasons for the delay is Insider Gaming's Tom Henderson, who recently published an extensive report providing more context on the state of Assassin's Creed… [+1025 chars]",
+        "category": "technology",
+        "id": "338de124-46e7-40e3-8312-0b6cb725a85e"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5Mac"
+        },
+        "author": "Zac Hall",
+        "title": "iOS 18 Lock Screen controls and changing wallpaper complexity - 9to5Mac",
+        "description": "Here’s some feedback I’d like to put on Apple’s radar. Lock Screen customization is awesome, especially with new iPhone control...",
+        "url": "https://9to5mac.com/2024/09/30/ios-18-lock-screen-controls-and-changing-wallpaper-complexity/",
+        "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/lock-screen-controls-iphone-ios-18.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-10-01T02:28:00Z",
+        "content": "Here’s some feedback I’d like to put on Apple’s radar. Lock Screen customization is awesome, especially with new iPhone control options in iOS 18, but sometimes I just want to change my wallpaper. Tr… [+2566 chars]",
+        "category": "technology",
+        "id": "591e9723-e4e1-49fc-9644-8094d52ca806"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KRON4"
+        },
+        "author": "Tor Smith",
+        "title": "PlayStation Network reports global outage - KRON4",
+        "description": "(KRON) — PlayStation users are facing widespread outages across multiple platforms, leaving many unable to sign in or access online features. The outage is impacting PS Vita, PS3, PS4, PS5, and even the web, according to the official page. In short, if it’s a…",
+        "url": "https://www.kron4.com/news/bay-area/playstation-network-reports-global-outage/",
+        "urlToImage": "https://www.kron4.com/wp-content/uploads/sites/11/2024/09/Untitled-24-1.png?w=1280",
+        "publishedAt": "2024-10-01T02:02:53Z",
+        "content": "(KRON) — PlayStation users are facing widespread outages across multiple platforms, leaving many unable to sign in or access online features.\r\nThe outage is impacting PS Vita, PS3, PS4, PS5, and even… [+547 chars]",
+        "category": "technology",
+        "id": "7a7d2b06-9cdb-432e-b139-a7fc709e445e"
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Eric Song",
+        "title": "Amazon Prime Day Deals on Fire TV Sticks, Kindles, Fire Tablets, and Echo Devices Start Today - IGN",
+        "description": "A great time to pick up a Fire TV Stick 4K for Xbox gaming.",
+        "url": "https://www.ign.com/articles/amazon-prime-day-deals-on-fire-tv-sticks-kindles-tablets-and-echo-devices",
+        "urlToImage": "https://assets-prd.ignimgs.com/2024/09/30/amazonechodevices-1727740107094.jpg?width=1280",
+        "publishedAt": "2024-10-01T00:31:46Z",
+        "content": "Amazon's second Prime Day event of the year kicks off next week on October 8, but some deals have already gone live. Most notably, Fire TV Sticks, Kindles, Fire Tablets, and Echo smart devices have b… [+4634 chars]",
+        "category": "technology",
+        "id": "f5e26ad3-a489-4b38-9488-a62a4cd16b27"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Maxwell Zeff",
+        "title": "Meta won’t say whether it trains AI on smart glasses photos - TechCrunch",
+        "description": "Meta's AI-powered Ray-Bans have a discreet camera on the front, for taking photos not just when you ask them to, but also when their AI features trigger",
+        "url": "https://techcrunch.com/2024/09/30/meta-wont-say-whether-it-trains-ai-on-ray-ban-meta-smart-glasses-photos/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/Meta-Ray-Ban-Stories-06.jpg?w=1200",
+        "publishedAt": "2024-10-01T00:21:40Z",
+        "content": "Meta’s AI-powered Ray-Bans have a discreet camera on the front, for taking photos not just when you ask them to, but also when their AI features trigger it with certain keywords such as “look.” That … [+3032 chars]",
+        "category": "technology",
+        "id": "10aeefce-442c-444a-aaf5-460557ca33fb"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Julie Bort",
+        "title": "Y Combinator is being criticized after it backed an AI startup that admits it basically cloned another AI startup - TechCrunch",
+        "description": "A Y Combinator startup named PearAI launched with a tweet thread and YouTube video on Saturday and caused an immediate backlash.",
+        "url": "https://techcrunch.com/2024/09/30/y-combinator-is-being-criticized-after-it-backed-an-ai-startup-that-admits-it-basically-cloned-another-ai-startup/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1058145366-1.jpg?resize=1200,715",
+        "publishedAt": "2024-10-01T00:13:50Z",
+        "content": "A Y Combinator startup named PearAI launched with an X post thread and YouTube video on Saturday and created immediate controversy. And some of that is splashing onto YC itself.\r\nPearAI offers an AI … [+4029 chars]",
+        "category": "technology",
+        "id": "8f3e6a89-82f8-43cc-9033-5117ad3294e0"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "9to5google.com"
+        },
+        "author": "Abner Li",
+        "title": "Android 16 described as ‘25Q2’ release, impact on Pixel update not known - 9to5Google",
+        "description": "Work on Android 16 is fully underway and points to an earlier than usual \"25Q2\" release. The Developer Preview for...",
+        "url": "http://9to5google.com/2024/09/30/android-16-25q2-release/",
+        "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/01/Android-logo-macro.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2024-10-01T00:10:00Z",
+        "content": "The Developer Preview for the next version of Android usually gets underway in February and progresses to a Beta in April with the public release set for Q3. Work on Android 16 is fully underway and … [+1658 chars]",
+        "category": "technology",
+        "id": "afd6d537-2563-47d0-b8ea-ade0916bfaf8"
+      }
+    ]
+  }
+}

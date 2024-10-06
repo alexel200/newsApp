@@ -1,0 +1,83 @@
+<div class="min-h-screen flex flex-column surface-ground">
+  <shared-navbar ></shared-navbar>
+  <div class="p-5 align-items-center flex justify-content-center mt-6  ">
+      <div class="surface-card p-4 shadow-2 border-round w-full lg:w-6">
+        <form #loginForm="ngForm" (ngSubmit)="login()">
+        <div class="text-center mb-5">
+          <img src="/assets/images/jarscode_logo.png" alt="Image" height="50" class="mb-3">
+          <div class="text-900 text-3xl font-medium mb-3">Welcome Back</div>
+        </div>
+
+        <div>
+          <div class="input-group my-3 has-validation">
+            <label for="user" class="input-group-text">Username</label>
+            <input
+                id="user"
+                name="user"
+                  type="text"
+                    #userField="ngModel"
+                    [(ngModel)]="user.username"
+                    placeholder="Type your user"
+                      class="form-control"
+                        [ngClass]="userField.touched && userField.invalid ? 'is-invalid' : userField.pristine ? '' : 'is-valid'"
+                        minlength="4"
+                        aria-describedby="userValidation" required>
+            <div id="userValidation" class="invalid-feedback">
+              @if(userField.errors?.['minlength']){
+                your username must contain at least {{ userField.errors!['minlength']['requiredLength'] }} characters
+              }
+              @if(userField.errors?.['required']){
+                Your username is required
+              }
+            </div>
+          </div>
+          <div class="input-group my-3">
+            <label for="password" class="input-group-text">Password</label>
+            <input id="password"
+                   name="password"
+                   type="password"
+                   placeholder="Password"
+                   class="form-control"
+                   aria-describedby="passwordValidation"  minlength="6"
+                    #passwordField="ngModel"
+                   [(ngModel)]="user.password"
+                   [ngClass]="passwordField.touched && passwordField.invalid ? 'is-invalid' : passwordField.pristine ? '' : 'is-valid' "
+                   required
+                   >
+            <div id="passwordValidation" class="invalid-feedback">
+                @if(passwordField.errors?.['minlength']){
+                  your password length must be at least {{ passwordField.errors!['minlength']['requiredLength'] }} characters
+                }
+                @if(passwordField.errors?.['required']){
+                  Your password is required
+                }
+            </div>
+          </div>
+          <div class="my-3">
+            <div class="row my-3">
+              <button class="btn   btn-primary" [disabled]="!loginForm.valid" >Log in</button>
+            </div>
+            <div class="row">
+              <a routerLink="/" class="btn btn-danger">Go to news</a>
+            </div>
+          </div>
+
+        </div>
+        </form>
+      </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

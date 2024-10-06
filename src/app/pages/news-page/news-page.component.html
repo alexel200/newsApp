@@ -1,0 +1,26 @@
+<div class="min-h-screen flex flex-column surface-ground">
+  <shared-navbar (searchEmitText)="search($event)"></shared-navbar>
+  <shared-categories (emitCategory)="loadArticlesByCategory($event)"/>
+  <div class="p-5 flex flex-column flex-auto">
+    <div class="border-2 border-dashed surface-border border-round surface-section flex-auto">
+      @if(searchText === ''){
+        <app-news-slider
+          [user]="user"
+          [articles]="news['general'].articles"
+          (deleteArticleEmitter)="deleteArticles($event)"
+          *ngIf="category.toLocaleLowerCase() == 'general'" />
+
+        <app-news-insight [user]="user" [news]="news" *ngIf="category.toLocaleLowerCase() == 'general'" />
+      }
+
+
+      @if (articles.length > 0) {
+        <app-articles [user]="user" [articles]="articles"/>
+      } @else {
+        {{hideSkeleton()}}
+        <h3 *ngIf="articles.length == 0 && !showSkeleton">There are no articles</h3>
+        <shared-articles-skeleton *ngIf="showSkeleton"/>
+      }
+    </div>
+  </div>
+</div>

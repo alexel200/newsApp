@@ -1,0 +1,7 @@
+<ul class="list-none py-3 px-5 m-0 surface-section flex align-items-center font-medium overflow-x-auto border-top-1 border-bottom-1 surface-border">
+  <li class="px-2" *ngFor="let category of categories;">
+    <a class="cursor-pointer text-black-500 white-space-nowrap text-light link-underline-none"
+       [ngClass]="category == selectedCategory ? 'active' : ''"
+       (click)="updateCategory(category)">{{ category | titlecase}}</a>
+  </li>
+</ul>

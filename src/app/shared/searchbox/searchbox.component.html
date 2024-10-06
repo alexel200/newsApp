@@ -1,0 +1,17 @@
+<div class="row m-2">
+  <form #searchForm="ngForm">
+    <mat-form-field class="min-w-full" color="warn">
+      <span matPrefix> </span>
+      <input type="text" matInput placeholder="Search" name= "search" class="min-w-1"
+             [(ngModel)]="searchText" required >
+      @if(searchText != ""){
+        <button matSuffix mat-icon-button aria-label="Clear" (click)="clean()">
+          <mat-icon>close</mat-icon>
+        </button>
+      }
+      <button matSuffix mat-icon-button [disabled]="!searchForm.valid" (click)="search()"><mat-icon >search</mat-icon></button>
+    </mat-form-field>
+    <br/>
+  </form>
+</div>
+

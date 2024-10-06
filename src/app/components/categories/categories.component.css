@@ -1,0 +1,16 @@
+a, a:active{
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.active{
+  padding: .4rem;
+  background-color: rgba(255,255,255,.2);
+  border-radius: 8px;
+  font-weight: bold;
+  color: white !important;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+ul{
+  background-color: black !important;
+}

@@ -1,0 +1,14 @@
+.picsum-img-wrapper{
+  max-height: 35rem;
+}
+.picsum-img-wrapper img{
+  width: 100vw;
+  object-fit: fill;
+}
+
+
+@media screen and (max-width: 490px){
+  .picsum-img-wrapper{
+    max-height: none ;
+  }
+}

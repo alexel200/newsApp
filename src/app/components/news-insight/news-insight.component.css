@@ -1,0 +1,18 @@
+
+
+mat-card-title{
+  height: 14vh;
+  font-size: 1.1rem ;
+  font-weight: bolder;
+  font-size-adjust: 0.5;
+  text-align: justify-all;
+}
+mat-card img{
+  height:10rem;
+}
+mat-card-content{
+  height: 4rem;
+  font-size: 14px;
+  text-align: justify;
+}
+

@@ -1,0 +1,17 @@
+<div class="grid p-3">
+  <ng-container *ngFor="let item of [1,1,1,1,1,1,1,1,1,1]">
+    <div class="col-12 lg:col-4 animate__animated animate__pulse animate__infinite " >
+      <div class="surface-card p-4 shadow-2 border-round m-3 min-h-30rem bg-gray-50">
+        <div class="bg-gray-300 w-7 my-2 skeleton-loader"></div>
+        <div class="font-medium text-500 mb-3 w-11 bg-gray-300 skeleton-loader"></div>
+        <div class="border-2 border-dashed surface-border bg-gray-300 h-10rem my-3 skeleton-loader">
+        </div>
+
+        <div class="bg-gray-300 my-1 skeleton-loader" *ngFor="let span of [1,1,1]"></div>
+        <div class="w-10 bg-gray-300 skeleton-loader" ></div>
+      </div >
+    </div>
+  </ng-container>
+
+</div>
+

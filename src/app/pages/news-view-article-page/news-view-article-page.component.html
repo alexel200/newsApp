@@ -1,0 +1,13 @@
+<div class="min-h-screen flex flex-column surface-ground">
+  <shared-navbar ></shared-navbar>
+  <div class="p-5 flex flex-column flex-auto">
+    <div class="border-2 border-dashed surface-border border-round surface-section flex-auto">
+      <div class="row m-3">
+        <h1>{{article.title}}</h1>
+        <img [src]="article.urlToImage" [alt]="article.title" />
+        {{article.category}} - {{article.description}}
+      </div>
+      <p class="m-3 text-justify">{{article.content}}</p>
+    </div>
+  </div>
+</div>

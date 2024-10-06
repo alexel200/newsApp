@@ -1,0 +1,24 @@
+<div class="bg-white py-3 px-4 shadow-2 flex align-items-center justify-content-between relative lg:static border-bottom-1 border-gray-800" style="min-height: 84px">
+  <a routerLink=""> <img id="brand-logo" src="/assets/images/jarscode_logo.png" class="mr-0 lg:mr-6" alt="Logo" ></a>
+  <div class="lg:col-7 text-right float-end">
+    <a routerLink="/login" *ngIf="routerUrl !== '/login' && !user">
+        <mat-icon aria-hidden="false"  fontIcon="person"></mat-icon>
+    </a>
+    @if(user){
+      <span>
+        {{user.name}} {{user.lastname}}
+      </span>
+      <button class="btn btn-flat" (click)="logout()">
+        <mat-icon aria-hidden="false"  fontIcon="logout"></mat-icon>
+      </button>
+    }
+  </div>
+  <a (click)="toggleNavbar = !toggleNavbar"
+     class="cursor-pointer block lg:hidden text-gray-400"
+     data-pb-styleclass="{ selector: '@next', enterClass: 'show', leaveToClass: 'show', hideOnOutsideClick: true }">
+    <i class="pi pi-bars text-4xl"></i>
+  </a>
+  <div *ngIf="routerUrl == '/'" class="align-items-end flex-grow-1 justify-content-end lg:flex absolute lg:static w-full bg-white left-0 top-100 z-1 shadow-2 lg:shadow-none border-1 lg:border-none border-gray-800" [ngClass]="toggleNavbar ? '' : 'hidden'">
+    <shared-searchbox (emitSearchText)="search($event)" />
+  </div>
+</div>

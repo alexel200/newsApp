@@ -1,0 +1,21 @@
+<div class="grid p-3 justify-content-center">
+  <div class="col-12">
+    @if (articles) {
+      <ngb-carousel>
+        <ng-template ngbSlide *ngFor="let article of topArticles">
+          <div class="picsum-img-wrapper">
+            <img [src]="article.urlToImage" [alt]="article.title" />
+          </div>
+          <div class="carousel-caption">
+            <h3>{{article.title}}.</h3>
+            <p>{{article.description | textLength:200}}
+              <a *ngIf="user" routerLink="/article/{{article.category}}/{{article.id}}/edit" class="btn btn-primary">Edit</a>
+              <button *ngIf="user" (click)="deleteArticle(article.category!, article.id!)" class="btn btn-danger ml-3">Delete</button>
+            </p>
+          </div>
+
+        </ng-template>
+      </ngb-carousel>
+    }
+  </div>
+</div>
